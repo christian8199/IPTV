@@ -290,8 +290,12 @@ https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 
-#EXTINF:-1 group-title="PREMIUM"  group-title="BOLANG'TV",ABC Newa
+#EXTINF:-1 group-title="PREMIUM"  group-title="BOLANG'TV",ABC News
 https://content-aapm1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/e.m3u8?pbs=c18bc1b51043480391536b8fcade3a8c
+
+#EXTINF:-1 group-title="PREMIUM"  group-title="BOLANG'TV",Fox Sport
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+
 
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/xqktYM0/Euronews.png" group-title="BOLANG'TV",EURONEWS
